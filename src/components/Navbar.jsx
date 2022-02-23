@@ -5,7 +5,7 @@ import { HiBell, HiMenu, HiOutlineX  } from 'react-icons/hi';
 import { GiAlienBug } from "react-icons/gi";
 
 const navigation = [
-  { name: 'Home', href: '#', current: true },
+  { name: 'Home', href: '#', current: false },
   { name: 'Tutorials', href: '#', current: false },
   { name: 'News', href: '#', current: false },
   { name: 'Events', href: '#', current: false },
